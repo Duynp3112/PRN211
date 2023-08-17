@@ -1,0 +1,166 @@
+﻿@using ProjectPRN211.Models;
+@using System.Text.Json;
+@{
+    Layout = "_Layout";
+}
+
+@{
+    string userJson = ViewBag.MessSuccess as string;
+    String mess = "";
+    if (userJson != null)
+    {
+        mess = JsonSerializer.Deserialize<String>(userJson);
+    }
+}
+
+@if (!string.IsNullOrEmpty(mess))
+{
+    <script>
+        $(document).ready(function () {
+            // Tạo toast thông báo và tùy chỉnh màu sắc
+            toastr.options = {
+                "positionClass": "toast-top-right",
+                "closeButton": true,
+                "progressBar": true,
+                "timeOut": 5000, // Thời gian hiển thị toast (tính bằng mili giây)
+                "extendedTimeOut": 2000, // Thời gian hiển thị tiếp tục nếu người dùng di chuột qua toast (tính bằng mili giây)
+                "tapToDismiss": false, // Ngăn người dùng tắt toast bằng cách nhấp chuột
+                "preventDuplicates": true, // Ngăn toast trùng lặp
+                "progressBarColor": "#FF3366", // Màu của thanh tiến trình
+                "toastClass": "custom-toast" // Lớp CSS tùy chỉnh cho toast
+            };
+
+            // Lấy thông báo từ biến mess
+            var message = "@mess";
+
+            // Hiển thị toast thành công
+            toastr.success(message);
+            $.ajax({
+                type: "POST",
+                url: "/Home/RemoveSession", // Đường dẫn đến action xóa session
+                success: function (result) {
+                    console.log("Session removed successfully.");
+                },
+                error: function (xhr, textStatus, errorThrown) {
+                    console.log("Error removing session.");
+                }
+            });
+        });
+    </script>
+}
+
+
+@{
+    string userJsonn = ViewBag.Error as string;
+    String messs = "";
+    if (userJsonn != null)
+    {
+        messs = JsonSerializer.Deserialize<String>(userJsonn);
+    }
+}
+
+@if (!string.IsNullOrEmpty(messs))
+{
+    <script>
+        $(document).ready(function () {
+            // Tạo toast thông báo và tùy chỉnh màu sắc
+            toastr.options = {
+                "positionClass": "toast-top-right",
+                "closeButton": true,
+                "progressBar": true,
+                "timeOut": 5000, // Thời gian hiển thị toast (tính bằng mili giây)
+                "extendedTimeOut": 2000, // Thời gian hiển thị tiếp tục nếu người dùng di chuột qua toast (tính bằng mili giây)
+                "tapToDismiss": false, // Ngăn người dùng tắt toast bằng cách nhấp chuột
+                "preventDuplicates": true, // Ngăn toast trùng lặp
+                "progressBarColor": "#FF3366", // Màu của thanh tiến trình
+                "toastClass": "custom-toast" // Lớp CSS tùy chỉnh cho toast
+            };
+
+            // Lấy thông báo từ biến mess
+            var message = "@messs";
+
+            // Hiển thị toast thành công
+            toastr.error(message);
+            $.ajax({
+                type: "POST",
+                url: "/Home/RemoveSession", // Đường dẫn đến action xóa session
+                success: function (result) {
+                    console.log("Session removed successfully.");
+                },
+                error: function (xhr, textStatus, errorThrown) {
+                    console.log("Error removing session.");
+                }
+            });
+        });
+    </script>
+}
+
+
+
+
+
+<form class="form-default" action="/Home/changePass_afterRest" method="POST" onsubmit="return validateForm()">
+    <div class="container">
+        
+        <div class="row">
+            <div class="col-sm-4">
+                <label>New Password</label>
+                <div class="form-group pass_show">
+                    <input id="password" name="Password" type="password"
+                           pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@@$!%*#?&])[A-Za-z\d@@$!%*#?&]{8,}"
+                           title="Password must be at least eight characters, at least one letter, one number and one special character"
+                           value="new pass"
+                           placeholder="JKL987@@"
+                           class="form-control" required="">
+                </div>
+                <label>Confirm Password</label>
+                <div class="form-group pass_show">
+                    <p id="passwordError" style="color: red;"></p>
+                    <input id="confirmPassword" name="rePassword" type="password"
+                           pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@@$!%*#?&])[A-Za-z\d@@$!%*#?&]{8,}"
+                           title="Password must be at least eight characters, at least one letter, one number and one special character"
+                           value="new pass"
+                           placeholder="JKL987@@"
+                           class="form-control" required="">
+                </div>
+                <button class="btn btn-primary" name="change" type="submit">Save changes</button>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $(document).ready(function () {
+        $('.pass_show').append('<span class="ptxt">Show</span>');
+    });
+
+
+    $(document).on('click', '.pass_show .ptxt', function () {
+
+        $(this).text($(this).text() == "Show" ? "Hide" : "Show");
+
+        $(this).prev().attr('type', function (index, attr) {
+            return attr == 'password' ? 'text' : 'password';
+        });
+
+    });
+</script>
+
+<script>
+    function validateForm() {
+        var password = document.getElementById("password").value;
+        var confirmPassword = document.getElementById("confirmPassword").value;
+        var passwordError = document.getElementById("passwordError");
+
+        var check = true;
+
+        if (password !== confirmPassword) {
+            passwordError.textContent = "Confirmation password does not match";
+            check = false; // Ngăn form được gửi đi
+        } else {
+            passwordError.textContent = ""; // Xóa thông báo lỗi (nếu có)
+            check = true; // Cho phép form được gửi đi
+        }
+
+        return check;
+    }
+</script>

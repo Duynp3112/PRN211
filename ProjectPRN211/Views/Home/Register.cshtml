@@ -1,0 +1,209 @@
+﻿
+<!DOCTYPE html>
+<!doctype html>
+<html class="no-js" lang="zxx">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Register</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="shortcut icon" type="image/x-icon" href="~/favicon.ico">
+
+        <!-- CSS here -->
+    <link rel="stylesheet" href="~/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/slicknav.css">
+    <link rel="stylesheet" href="~/css/flaticon.css">
+    <link rel="stylesheet" href="~/css/progressbar_barfiller.css">
+    <link rel="stylesheet" href="~/css/gijgo.css">
+    <link rel="stylesheet" href="~/css/animate.min.css">
+    <link rel="stylesheet" href="~/css/animated-headline.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/css/themify-icons.css">
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="~/css/nice-select.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    </head>
+    <body>
+        <!-- ? Preloader Start -->
+        <div id="preloader-active">
+            <div class="preloader d-flex align-items-center justify-content-center">
+                <div class="preloader-inner position-relative">
+                    <div class="preloader-circle"></div>
+                    <div class="preloader-img pere-text">
+                        <img src="~/Logo/loder.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Start Header-->
+        <jsp:include page="/user/navigator/header.jsp"/>   
+        <!--End Header-->
+
+        <!-- Register -->
+    @{
+        string imagePath = Url.Content("~/Logo/bgalpha.png");
+    }
+
+    <style>
+        .login-body[data-is-background-set="true"] {
+            background-image: url('@imagePath');
+        }
+    </style>
+    <main class="login-body" data-is-background-set="true">
+            <!-- Login Admin -->
+        <form class="form-default" action="/Home/sub_Register"
+                  method="post" onsubmit="return validateForm()">
+
+                <div class="login-form">
+                    <!-- logo-login -->
+                    <div class="logo-login">
+                    <a href="/Home/HomePage"><img src="~/Logo/loder.png" alt=""></a>
+                    </div>
+                    <h2>Registration Here</h2>
+                <h2 style="color: green; text-align: center;">@ViewBag.MessOke</h2>
+                <h2 style="color: red; text-align: center;">@ViewBag.MessFail</h2>
+                    <div class="form-input">
+                        <p id="FNameError" style="color: red;"></p>
+                        <label for="firstName">Full name</label>
+                    <input name="user.FullName" type="text" required id="firstName"
+                           pattern="^[a-zA-ZÀ-ỹ\s]{10,}$"
+                           title="Enter letters and at least 10 and no more than 100 characters"
+                           value="" placeholder="nguyen van a"
+                               class="form-control">
+                    </div>
+                    <div class="form-input">
+                        <label for="UName">User Name</label>
+                    <input name="user.UserName" type="text" required id="UName"
+                               pattern="^[a-zA-Z1-9]{5,50}$" 
+                               placeholder="abc2002"
+                           title="Enter at least 5 and no more than 50 characters"
+                           value=""
+                               class="form-control">
+                    </div>
+                    <div class="form-input">
+                        <label for="emailf">Email</label>
+                    <input name="user.Email" type="email" required id="emailf"
+                               pattern="^[\w.-]+@@[a-zA-Z_-]+?(?:\.[a-zA-Z]{2,6})+$"
+                           title="Email must be in the correct format"
+                           value=""
+                               placeholder="nguyena@gmail.com"
+                               class="form-control">
+                    </div>
+                    <div class="form-input">
+                        <label for="phone">Phone</label>
+                    <input name="user.Mobile" type="text" required id="phone"
+                           pattern="[+]{0,1}[0-9]{10,12}"
+                           title="Phone number must be 10 to 12 digits"
+                           value=""
+                               placeholder="+84564296789 OR 0987834633"
+                               class="form-control">
+                    </div>
+                    <div class="form-input">
+                        <label for="password">Password</label>
+                    <input id="password" name="user.Password" type="password"
+                           pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@@$!%*#?&])[A-Za-z\d@@$!%*#?&]{8,}"
+                           title="Password must be at least eight characters, at least one letter, one number and one special character"
+                           value=""
+                               placeholder="JKL987@@"
+                               class="form-control" required="">
+                    </div>
+                    <div class="form-input">
+                        <p id="passwordError" style="color: red;"></p>
+                        <label for="confirmPassword">Confirm Password</label>
+                    <input id="confirmPassword" name="user.Password" type="password"
+                           pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[@@$!%*#?&])[A-Za-z\d@@$!%*#?&]{8,}"
+                           title="Password must be at least eight characters, at least one letter, one number and one special character"
+                           value=""
+                               placeholder="JKL987@@"
+                               class="form-control" required="">
+
+                    </div>
+                    <div class="form-input pt-30">
+                        <input type="submit" name="submit" value="Registration">
+                    </div>
+                    <!-- Forget Password -->
+                    <a href="/Home/HomePage" class="registration">Login</a>
+                </div>
+            </form>
+            <!-- /end login form -->
+        </main>
+        <!--Start Footer-->
+        <jsp:include page="/user/navigator/footer.jsp"/>   
+        <!--End Footer-->
+        <script>
+            function validateForm() {
+                var firstNameInput = document.getElementById('firstName').value;
+                var password = document.getElementById("password").value;
+                var confirmPassword = document.getElementById("confirmPassword").value;
+                var passwordError = document.getElementById("passwordError");
+                var FNameError = document.getElementById("FNameError");
+
+                var check = true;
+                if (firstNameInput.includes('  ')) {
+                    // Nếu có, ngăn không cho form được submit
+                    check = false; // Ngăn form được gửi đi
+                    FNameError.textContent = "Do not enter space duplicate";
+                    // Hiển thị thông báo lỗi cho người dùng
+                    //alert('Không được nhập khoảng trắng 2 lần.');
+                }
+                if (password !== confirmPassword) {
+                    passwordError.textContent = "Confirmation password does not match";
+                    check = false; // Ngăn form được gửi đi
+                } else {
+                    passwordError.textContent = ""; // Xóa thông báo lỗi (nếu có)
+                    check = true; // Cho phép form được gửi đi
+                }
+
+                return check;
+            }
+        </script>
+
+    <!-- JS here -->
+    <script src="~/js/js1.js"></script>
+    <!-- Jquery, Popper, Bootstrap -->
+    <script src="~/js/js2.js"></script>
+    <script src="~/js/js3.js"></script>
+    <script src="~/js/js4.js"></script>
+    <!-- Jquery Mobile Menu -->
+    <script src="~/js/js5.js"></script>
+
+    <!-- Jquery Slick , Owl-Carousel Plugins -->
+    <script src="~/js/js6.js"></script>
+    <script src="~/js/js7.js"></script>
+    <!-- One Page, Animated-HeadLin -->
+    <script src="~/js/js8.js"></script>
+    <script src="~/js/js9.js"></script>
+    <script src="~/js/js10.js"></script>
+
+    <!-- Date Picker -->
+    <script src="~/js/js11.js"></script>
+    <!-- Nice-select, sticky -->
+    <script src="~/js/js12.js"></script>
+    <script src="~/js/js13.js"></script>
+    <!-- Progress -->
+    <script src="~/js/js14.js"></script>
+
+    <!-- counter , waypoint,Hover Direction -->
+    <script src="~/js/js15.js"></script>
+    <script src="~/js/js16.js"></script>
+    <script src="~/js/js17.js"></script>
+    <script src="~/js/js18.js"></script>
+
+    <!-- contact js -->
+    <script src="~/js/js19.js"></script>
+    <script src="~/js/js20.js"></script>
+    <script src="~/js/js21.js"></script>
+    <script src="~/js/js22.js"></script>
+    <script src="~/js/js23.js"></script>
+
+    <!-- Jquery Plugins, main Jquery -->
+    <script src="~/js/js24.js"></script>
+    <script src="~/js/js25.js"></script>
+
+    </body>
+</html>
+

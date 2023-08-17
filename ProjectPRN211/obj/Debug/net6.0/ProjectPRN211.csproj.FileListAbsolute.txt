@@ -1,0 +1,1143 @@
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.Development.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.staticwebassets.runtime.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.exe
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.deps.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.runtimeconfig.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.pdb
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Humanizer.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.AssemblyReference.cache
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfoInputs.cache
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfo.cs
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CoreCompileInputs.cache
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.MvcApplicationPartsAssemblyInfo.cache
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cache
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cs
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.ProjectPRN211.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectPRN211.props
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectPRN211.props
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectPRN211.props
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.build.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.development.json
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\bundle\ProjectPRN211.styles.css
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\projectbundle\ProjectPRN211.bundle.scp.css
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CopyComplete
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\refint\ProjectPRN211.dll
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.pdb
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.genruntimeconfig.cache
+D:\ki 5\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ref\ProjectPRN211.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.Development.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.staticwebassets.runtime.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.exe
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.deps.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.runtimeconfig.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.pdb
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Humanizer.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.AssemblyReference.cache
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfoInputs.cache
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfo.cs
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CoreCompileInputs.cache
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.MvcApplicationPartsAssemblyInfo.cache
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cache
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cs
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.ProjectPRN211.Microsoft.AspNetCore.StaticWebAssets.props
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectPRN211.props
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectPRN211.props
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectPRN211.props
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.pack.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.build.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.development.json
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\bundle\ProjectPRN211.styles.css
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\projectbundle\ProjectPRN211.bundle.scp.css
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CopyComplete
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\refint\ProjectPRN211.dll
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.pdb
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.genruntimeconfig.cache
+D:\codesua_13_7\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ref\ProjectPRN211.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.Development.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.staticwebassets.runtime.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.exe
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.deps.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.runtimeconfig.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.pdb
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Humanizer.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.AssemblyReference.cache
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfoInputs.cache
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfo.cs
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CoreCompileInputs.cache
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.MvcApplicationPartsAssemblyInfo.cache
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cache
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cs
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.ProjectPRN211.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectPRN211.props
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectPRN211.props
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectPRN211.props
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\bundle\ProjectPRN211.styles.css
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\projectbundle\ProjectPRN211.bundle.scp.css
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CopyComplete
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\refint\ProjectPRN211.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.pdb
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.genruntimeconfig.cache
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ref\ProjectPRN211.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.exe
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.deps.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.runtimeconfig.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.pdb
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.ProjectPRN211.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectPRN211.props
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectPRN211.props
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectPRN211.props
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\bundle\ProjectPRN211.styles.css
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\projectbundle\ProjectPRN211.bundle.scp.css
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\refint\ProjectPRN211.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.pdb
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ref\ProjectPRN211.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\ProjectPRN211\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Common.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitPRN\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.AssemblyReference.cache
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfoInputs.cache
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfo.cs
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CoreCompileInputs.cache
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.MvcApplicationPartsAssemblyInfo.cache
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cache
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cs
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\refint\ProjectPRN211.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.pdb
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.Development.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.staticwebassets.runtime.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.exe
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.deps.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.runtimeconfig.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.pdb
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Humanizer.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Common.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.ProjectPRN211.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectPRN211.props
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectPRN211.props
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectPRN211.props
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.build.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.development.json
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\bundle\ProjectPRN211.styles.css
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\projectbundle\ProjectPRN211.bundle.scp.css
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CopyComplete
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.genruntimeconfig.cache
+D:\ki 5\PRN211_git\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ref\ProjectPRN211.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.Development.json
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.staticwebassets.runtime.json
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.exe
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\appsettings.json
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.deps.json
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.runtimeconfig.json
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ProjectPRN211.pdb
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Humanizer.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Common.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.AssemblyReference.cache
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfoInputs.cache
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfo.cs
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CoreCompileInputs.cache
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.MvcApplicationPartsAssemblyInfo.cache
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cache
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cs
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.ProjectPRN211.Microsoft.AspNetCore.StaticWebAssets.props
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectPRN211.props
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectPRN211.props
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectPRN211.props
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.pack.json
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.build.json
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\staticwebassets.development.json
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\bundle\ProjectPRN211.styles.css
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\scopedcss\projectbundle\ProjectPRN211.bundle.scp.css
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CopyComplete
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\refint\ProjectPRN211.dll
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.pdb
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.genruntimeconfig.cache
+C:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ref\ProjectPRN211.dll
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.AssemblyReference.cache
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfoInputs.cache
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.AssemblyInfo.cs
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.csproj.CoreCompileInputs.cache
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.MvcApplicationPartsAssemblyInfo.cache
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cache
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.RazorAssemblyInfo.cs
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.dll
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\refint\ProjectPRN211.dll
+E:\prn211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0\ProjectPRN211.pdb

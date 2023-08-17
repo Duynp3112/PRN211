@@ -1,0 +1,166 @@
+﻿@using ProjectPRN211.Models;
+@using System.Text.Json;
+
+<!doctype html>
+
+<html class="no-js" lang="zxx">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Login</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+
+        <!-- CSS here -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/slicknav.css">
+    <link rel="stylesheet" href="~/css/flaticon.css">
+    <link rel="stylesheet" href="~/css/progressbar_barfiller.css">
+    <link rel="stylesheet" href="~/css/gijgo.css">
+    <link rel="stylesheet" href="~/css/animate.min.css">
+    <link rel="stylesheet" href="~/css/animated-headline.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/css/themify-icons.css">
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="~/css/nice-select.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    </head>
+    <body>
+        <!-- ? Preloader Start -->
+        <div id="preloader-active">
+            <div class="preloader d-flex align-items-center justify-content-center">
+                <div class="preloader-inner position-relative">
+                    <div class="preloader-circle"></div>
+                    <div class="preloader-img pere-text">
+                        <img src="~/Logo/loder.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Preloader Start-->
+        <jsp:include page="/user/navigator/header.jsp"/>
+ 
+    @{
+        string imagePath = Url.Content("~/Logo/bgalpha.png");
+    }
+
+    <style>
+        .login-body[data-is-background-set="true"] {
+            background-image: url('@imagePath');
+        }
+    </style>
+
+
+    
+
+    <main class="login-body" id="loginBody" data-is-background-set="false"></main>
+
+            <!-- Login Admin -->
+    <form class="form-default" action="/Home/Login_submit" method="POST">
+
+        
+
+
+                <div class="login-form">
+                    <!-- logo-login -->
+                    <div class="logo-login">
+                        <a href="/Home/HomePage"><img src="~/Logo/loder.png" alt=""></a>
+                    </div>
+                    <h2 class="title-head">Login to your <span>Account</span></h2>
+            <h2 style="color:red; text-align: center;">@ViewBag.Mess</h2>
+                    <div class="form-input">
+                        <label>User Name</label>
+                        <input name="userName" type="text" required=""
+                               placeholder="abc2002"
+                               class="form-control" value="">
+                    </div>
+                    <div class="form-input">
+                        <label>Your Password</label>
+                        <input name="password" type="password" class="form-control" 
+                               pattern="${Constants.HTML_REGEX_PASSWORD}" 
+                               placeholder=""
+                               title="${Constants.HTML_TITLE_OF_REGEX__PASSWORD}"  
+                               class="form-control"
+                               required="" value="">
+                    </div>
+                    <div class="form-input pt-30">
+                        <input type="submit"  value="login">
+                    </div>
+                    <a href="/Home/ForgotPass" class="ml-auto">Forgot Password?</a>
+                    <!-- Forget Password -->
+                    <a href="/Home/Register" class="ml-auto">Register Now</a>
+
+                    <div class="form-input pt-30" style="text-align: center">
+                        <a class="btn flex-fill m-l5 google-plus" 
+                           href="https://accounts.google.com/o/oauth2/auth?scope=email&redirect_uri=${Constants.GOOGLE_REDIRECT_URI}&response_type=code
+                           &client_id=${Constants.GOOGLE_CLIENT_ID}&approval_prompt=force">
+                            <i class="fa fa-google-plus"></i>Google Plus</a>
+
+                    </div>
+
+                </div>
+            </form>
+            <!-- /end login form -->
+        </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var imagePath = '@imagePath';
+            var loginBody = document.getElementById('loginBody');
+
+            // Chỉ đặt ảnh nền nếu chưa có ảnh nền được đặt
+            if (loginBody.getAttribute('data-is-background-set') === 'false') {
+                loginBody.setAttribute('data-is-background-set', 'true');
+            }
+        });
+    </script>
+   
+
+        <jsp:include page="/user/navigator/footer.jsp"/>
+    <script src="~/js/js1.js"></script>
+    <!-- Jquery, Popper, Bootstrap -->
+    <script src="~/js/js2.js"></script>
+    <script src="~/js/js3.js"></script>
+    <script src="~/js/js4.js"></script>
+    <!-- Jquery Mobile Menu -->
+    <script src="~/js/js5.js"></script>
+
+    <!-- Jquery Slick , Owl-Carousel Plugins -->
+    <script src="~/js/js6.js"></script>
+    <script src="~/js/js7.js"></script>
+    <!-- One Page, Animated-HeadLin -->
+    <script src="~/js/js8.js"></script>
+    <script src="~/js/js9.js"></script>
+    <script src="~/js/js10.js"></script>
+
+    <!-- Date Picker -->
+    <script src="~/js/js11.js"></script>
+    <!-- Nice-select, sticky -->
+    <script src="~/js/js12.js"></script>
+    <script src="~/js/js13.js"></script>
+    <!-- Progress -->
+    <script src="~/js/js14.js"></script>
+
+    <!-- counter , waypoint,Hover Direction -->
+    <script src="~/js/js15.js"></script>
+    <script src="~/js/js16.js"></script>
+    <script src="~/js/js17.js"></script>
+    <script src="~/js/js18.js"></script>
+
+    <!-- contact js -->
+    <script src="~/js/js19.js"></script>
+    <script src="~/js/js20.js"></script>
+    <script src="~/js/js21.js"></script>
+    <script src="~/js/js22.js"></script>
+    <script src="~/js/js23.js"></script>
+
+    <!-- Jquery Plugins, main Jquery -->
+    <script src="~/js/js24.js"></script>
+    <script src="~/js/js25.js"></script>
+
+    </body>
+</html>

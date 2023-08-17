@@ -1,0 +1,367 @@
+﻿@using ProjectPRN211.Models;
+@using System.Text.Json;
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>FLM Homepage</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="shortcut icon" type="image/x-icon" href="~/favicon.ico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/slicknav.css">
+    <link rel="stylesheet" href="~/css/flaticon.css">
+    <link rel="stylesheet" href="~/css/progressbar_barfiller.css">
+    <link rel="stylesheet" href="~/css/gijgo.css">
+    <link rel="stylesheet" href="~/css/animate.min.css">
+    <link rel="stylesheet" href="~/css/animated-headline.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/css/themify-icons.css">
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="~/css/nice-select.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <style>
+        .pass_show {
+            position: relative
+        }
+
+            .pass_show .ptxt {
+                position: absolute;
+                top: 50%;
+                right: 10px;
+                z-index: 1;
+                color: #f36c01;
+                margin-top: -10px;
+                cursor: pointer;
+                transition: .3s ease all;
+            }
+
+                .pass_show .ptxt:hover {
+                    color: #333333;
+                }
+        .slider-area,
+        .slider-area2 {
+            background-image: url(../Logo/h1_hero.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center
+        }
+
+            .slider-area.slider-area2,
+            .slider-area2.slider-area2 {
+                background-image: url(../Logo/hero2.png);
+            }
+
+            .slider-area .hero__caption,
+            .slider-area2 .hero__caption {
+                overflow: hidden
+            }
+
+                .slider-area .hero__caption span,
+                .slider-area2 .hero__caption span {
+                    color: #31ff7a;
+                    font-size: 60px;
+                    line-height: 1.2;
+                    font-weight: 400;
+                    margin-bottom: 30px;
+                    display: block
+                }
+
+
+                .slider-area .hero__caption h1,
+                .slider-area2 .hero__caption h1 {
+                    font-size: 60px;
+                    font-weight: 700;
+                    color: #fff;
+                    line-height: 1.3;
+                    margin-bottom: 22px
+                }
+
+        
+        .table-sortable th {
+            cursor: pointer;
+        }
+
+        .table-sortable .th-sort-asc::after {
+            content: "\25b4";
+        }
+
+        .table-sortable .th-sort-desc::after {
+            content: "\25be";
+        }
+
+        .table-sortable .th-sort-asc::after,
+        .table-sortable .th-sort-desc::after {
+            margin-left: 5px;
+        }
+
+        .table-sortable .th-sort-asc,
+        .table-sortable .th-sort-desc {
+            background: rgba(0, 0, 0, 0.1);
+        }
+
+        
+        .action {
+            background-color: black;
+            border-radius: 5px;
+        }
+            
+        .custom-toast {
+            top: 100px !important; /* Điều chỉnh khoảng cách từ top */
+        }
+    
+    </style>
+</head>
+
+<body>
+
+
+    @{
+        string userJson = ViewBag.User as string;
+        User user = null;
+        if (userJson != null)
+        {
+            user = JsonSerializer.Deserialize<User>(userJson);
+        }
+    }
+    @{
+        int roleId = 0; // Mặc định giá trị RoleId là 0
+
+        var userRoleValue = ViewBag.Role;
+
+        if (userRoleValue != null)
+        {
+            roleId = (int)userRoleValue;
+        }
+    }
+    <header>
+        <!-- Header Start -->
+        <div style="background: #bb71ff;">
+            <div class="main-header ">
+                <div class="header-bottom  header-sticky">
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <!-- Logo -->
+                            <div class="col-xl-2 col-lg-2">
+                                <div class="logo">
+                                    <a href="/Home/HomePage"><img src="~/Logo/logo1.jpg" alt=""></a>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-10 col-lg-10">
+                                <div class="menu-wrapper d-flex align-items-center justify-content-end">
+                                    <!-- Main-menu -->
+                                    <div class="main-menu d-none d-lg-block">
+                                        <nav>
+                                            <ul id="navigation" class="horizontal-menu">
+                                                <li><a href="/Home/CurriculumList">Curriculum</a></li>
+                                                <li><a href="/Syllabus/Syllabuslist">Syllabus</a></li>
+                                                <li><a href="/Decision/DecisionList">Decision</a></li>
+                                                @if (user != null)
+                                                {
+                                                    <li>
+                                                        <img alt='avatar' width="35" height="35" src="~/Logo/user-1.jpg" class="gravatar">
+                                                        <ul class="submenu" style="left: -350%; width: 200px; white-space: nowrap;">
+                                                            <li><a style="color:black">Hello, @user.FullName</a></li>
+                                                            <li style="color: red; text-align: center; white-space: nowrap;">@*(@role.Role.Name)*@</li>
+                                                            <li><a href="/Home/UserProfile">User Profile</a></li>
+                                                            <li><a href="/Home/ChangePassWord">Change Password</a></li>
+                                                            <li><a href="/Home/LogOut">Logout</a></li>
+                                                        </ul>
+                                                    </li>
+
+                                                }
+                                                @if (user == null)
+                                                {
+                                                    <li class="button-header"><a href="/Home/Login" class="btn">Login</a></li>
+                                                    <li class="button-header"><a href="/Home/Register" class="btn">Register</a></li>
+                                                }
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Mobile Menu -->
+                            <div class="col-12">
+                                <div class="mobile_menu d-block d-lg-none"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="curId" value="${sessionScope.curId}">
+
+    </header>
+    <!-- ? Preloader Start -->
+    <div id="preloader-active">
+        <div class="preloader d-flex align-items-center justify-content-center">
+            <div class="preloader-inner position-relative">
+                <div class="preloader-circle"></div>
+                <div class="preloader-img pere-text">
+                    <img src="~/lib/loder.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Preloader Start -->
+    <main>
+        @RenderBody()
+    </main>
+
+    <!-- Scroll Up -->
+    <div id="back-top">
+        <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
+    </div>
+
+    <footer>
+        <div class="footer-wrappper footer-bg">
+            <!-- Footer Start-->
+            <div class="footer-area footer-padding">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
+                            <div class="single-footer-caption mb-50">
+                                <div class="single-footer-caption mb-30">
+                                    <!-- logo -->
+                                    <div class="footer-logo mb-25">
+                                        <a href="index.html"><img src="~/Logo/logo2_footer.png" alt=""></a>
+                                    </div>
+                                    <div class="footer-tittle">
+                                        <div class="footer-pera">
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                    <!-- social -->
+                                    <div class="footer-social">
+                                        <a href="#"><i class="fab fa-twitter"></i></a>
+                                        <a href="https://www.facebook.com/DaihocFPTHaNoi"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-5">
+                                                <div class="single-footer-caption mb-50">
+                                                    <div class="footer-tittle">
+                                                        <h4>Our solutions</h4>
+                                                        <ul>
+                                                            <li><a href="#">Design & creatives</a></li>
+                                                            <li><a href="#">Telecommunication</a></li>
+                                                            <li><a href="#">Restaurant</a></li>
+                                                            <li><a href="#">Programing</a></li>
+                                                            <li><a href="#">Architecture</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>-->
+                        <div class="col-xl-4 col-lg-5 col-md-4 col-sm-6">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <h4>Contact info</h4>
+                                    <p><span class="glyphicon glyphicon-map-marker"></span>Địa chỉ: Khu Giáo dục và Đào tạo – Khu Công nghệ cao Hòa Lạc – Km29 Đại lộ Thăng Long, H. Thạch Thất, TP. Hà Nội.</p>
+                                    <p><span class="glyphicon glyphicon-phone"></span>Điện thoại: 024 7300 1866.</p>
+                                    <p><span class="glyphicon glyphicon-envelope"></span>Email: daihocfpt@fpt.edu.vn.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-5 col-lg-5 col-md-4 col-sm-6">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10383.45399837883!2d105.52686640295963!3d21.012559611496734!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31345b465a4e65fb%3A0xaae6040cfabe8fe!2sFPT%20University!5e0!3m2!1sen!2s!4v1685237368361!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- footer-bottom area -->
+            <div class="footer-bottom-area">
+                <div class="container">
+                    <div class="footer-border">
+                        <div class="row d-flex align-items-center">
+                            <div class="col-xl-12 ">
+                                <div class="footer-copy-right text-center">
+                                    <p>
+                                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                        &copy;<script>document.write(new Date().getFullYear());</script> FPT Education Learning Materials <i class="fa fa-heart" aria-hidden="true"></i> </a>
+                                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer End-->
+        </div>
+    </footer>
+
+
+    <script src="~/js/js1.js"></script>
+    <!-- Jquery, Popper, Bootstrap -->
+    <script src="~/js/js2.js"></script>
+    <script src="~/js/js3.js"></script>
+    <script src="~/js/js4.js"></script>
+    <!-- Jquery Mobile Menu -->
+    <script src="~/js/js5.js"></script>
+
+    <!-- Jquery Slick , Owl-Carousel Plugins -->
+    <script src="~/js/js6.js"></script>
+    <script src="~/js/js7.js"></script>
+    <!-- One Page, Animated-HeadLin -->
+    <script src="~/js/js8.js"></script>
+    <script src="~/js/js9.js"></script>
+    <script src="~/js/js10.js"></script>
+
+    <!-- Date Picker -->
+    <script src="~/js/js11.js"></script>
+    <!-- Nice-select, sticky -->
+    <script src="~/js/js12.js"></script>
+    <script src="~/js/js13.js"></script>
+    <!-- Progress -->
+    <script src="~/js/js14.js"></script>
+
+    <!-- counter , waypoint,Hover Direction -->
+    <script src="~/js/js15.js"></script>
+    <script src="~/js/js16.js"></script>
+    <script src="~/js/js17.js"></script>
+    <script src="~/js/js18.js"></script>
+
+    <!-- contact js -->
+    <script src="~/js/js19.js"></script>
+    <script src="~/js/js20.js"></script>
+    <script src="~/js/js21.js"></script>
+    <script src="~/js/js22.js"></script>
+    <script src="~/js/js23.js"></script>
+
+    <!-- Jquery Plugins, main Jquery -->
+    <script src="~/js/js24.js"></script>
+    <script src="~/js/js25.js"></script>
+
+   
+
+
+</body>
+</html>

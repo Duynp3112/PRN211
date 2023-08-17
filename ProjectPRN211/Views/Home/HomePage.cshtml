@@ -1,0 +1,89 @@
+﻿@using System.Text.Json;
+@using ProjectPRN211.Models;
+
+@{
+    Layout = "_Layout";
+}
+@{
+    string userJson = ViewBag.User as string;
+    User user = null;
+    if (userJson != null)
+    {
+        user = JsonSerializer.Deserialize<User>(userJson);
+    }
+}
+
+@{
+    int roleId = 0; // Mặc định giá trị RoleId là 0
+
+    var userRoleValue = ViewBag.Role;
+
+    if (userRoleValue != null)
+    {
+        roleId = (int)userRoleValue;
+    }
+}
+
+<!--? slider Area Start-->
+<section class="slider-area ">
+    <div class="slider-active">
+        <!-- Single Slider -->
+        <div class="single-slider slider-height d-flex align-items-center">
+            <div class="container">
+                <div class="row">
+                    @if (user == null)
+                    {
+                        <div class="col-xl-6 col-lg-7 col-md-12">
+                            <div class="hero__caption">
+                                <h1 data-animation="fadeInLeft" data-delay="0.2s">FPT Education Learning Materials</h1>
+                                <p data-animation="fadeInLeft" data-delay="0.4s"></p>
+                                <a href="/Home/Login" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">Join for Free</a>
+                            </div>
+                        </div>
+                    }
+
+                    @if (user != null)
+                    {
+                        <div class="container d-flex flex-row align-items-flex-start p-4">
+                            <div class="content-wraper features">
+                                @if (roleId == 0)
+                                {
+                                    <h4>Guest features</h4>
+                                    <a href="CurriculumList"><p>View Curriculum</p></a>
+                                    <a href="/Syllabus/Syllabuslist"><p>View Training Syllabus</p></a>
+                                    <a href="${pageContext.request.contextPath}${Constants.URL_SUBJECTPREDECESSOER}"> <p>Subject Predecessors</p></a>
+                                    <a href="${pageContext.request.contextPath}${Constants.URL_SUBJECTSUCCESSOER}"> <p>Subject Successors</p></a>
+                                }
+                            </div>
+                            @if (roleId == 1)
+                            {
+                                <div class="content-wraper features">
+                                    <h4>Admin features</h4>
+                                    <a href="CurriculumList"><p>View Curriculum</p></a>
+                                    <a href="/Syllabus/Syllabuslist"><p>View Training Syllabus</p></a>
+                                    <a href="${pageContext.request.contextPath}${Constants.URL_SUBJECTPREDECESSOER}"><p>Subject Predecessors</p></a>
+                                    <a href="${pageContext.request.contextPath}${Constants.URL_SUBJECTSUCCESSOER}"><p>Subject Successors</p></a>
+                                </div>
+                            }
+                            else if (roleId == 2)
+                            {
+                                <div class="content-wraper features">
+                                    <h4>Student features</h4>
+                                    <a href="CurriculumList"><p>View Curriculum</p></a>
+                                    <a href="/Syllabus/Syllabuslist"><p>View Training Syllabus</p></a>
+                                    <a href="${pageContext.request.contextPath}${Constants.URL_SUBJECTPREDECESSOER}"><p>Subject Predecessors</p></a>
+                                    <a href="${pageContext.request.contextPath}${Constants.URL_SUBJECTSUCCESSOER}"><p>Subject Successors</p></a>
+                                </div>
+                            }
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@*!-- ? services-area -->
+       <!-- Courses area End -->
+       <!--? About Area-1 Start -->*@
+        </section>
+<!-- About Area End -->
